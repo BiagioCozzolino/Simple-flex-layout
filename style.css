@@ -13,7 +13,14 @@ p{
 }
 h1,h2{
     color: #cb2d65;
+    
+}
+h1{
     margin-bottom: 20px;
+}
+h3 {
+    color: #fd8906;
+    margin: 10px;
 }
 .container{
     width: 80%;
@@ -27,4 +34,17 @@ h1,h2{
 .item{
     width: 32%;
     padding: 10px;
+    text-align: center;
+    
+}
+.item img{
+    height: 150px;
+    width: 40%;
+    text-align: center;
+}
+.item p{
+    text-align: center;
+}
+footer{
+    margin-top: 20px;
 }
